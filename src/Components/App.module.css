@@ -1,0 +1,6 @@
+.calculator{
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 12px 12px 20px #cbced1,
+                -12px -12px 20px #fff;
+}

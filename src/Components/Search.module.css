@@ -1,0 +1,13 @@
+.input .screen{
+    width:97%;
+    height: 70px;
+    font-size: 25px;
+    outline: none;
+    text-align: right;
+    border: none;
+    padding-right: 0.5em;
+    border-radius: 6px;
+    box-shadow: inset 8px 8px 8px #cbced1,
+                inset -8px -8px 8px #fff;
+    
+}
